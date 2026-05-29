@@ -1,0 +1,23 @@
+footer ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    font-family: arial;
+    list-style-type: none;
+}
+footer ul a{
+    text-decoration: none;
+    color: black;
+}
+footer ul a:hover{
+    text-decoration: underline;
+}
+.sample{
+    font-family: arial;
+    text-align: center;
+}
+footer{
+    margin: 0px;
+    padding: 10px;
+}
